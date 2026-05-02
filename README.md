@@ -36,6 +36,3 @@ Our approach was to build an intelligent wrapper around the chaotic and often co
 2. Navigate to the `client` directory, run `npm install`, and create a `.env` file with `VITE_GOOGLE_MAPS_API_KEY`.
 3. Navigate to the `server` directory, run `npm install`, and create a `.env` file with `GEMINI_API_KEY` and `GOOGLE_TRANSLATE_API_KEY`.
 4. Run `npm run dev` in both directories.
-
----
-*Built for the Hackathon with ❤️*
