@@ -2,7 +2,7 @@ import { GoogleGenAI } from '@google/genai';
 
 async function testChat() {
   try {
-    const ai = new GoogleGenAI({ apiKey: "AIzaSyBTryq35Zlovx8LzaeDV0vwpKxVEMA6_F0" });
+    
     
     let systemInstruction = `You are VoteVerse AI, an election companion. You guide users based on their age, location, and needs. Keep answers simple, jargon-free, and helpful.`;
     
